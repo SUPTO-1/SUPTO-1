@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co/XXSYz9N/cover-photo-for-github-and-linkedin.jpg" />
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/jahidul-islam-supta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
@@ -36,29 +32,6 @@
   In addition to my front-end skills, I am adept at problem-solving and have a solid understanding of data structures and algorithms. This knowledge allows me to approach challenges methodically and develop optimized solutions.<br>
 </p>
 <br>
-<h3 align="center" style="font-family: 'Arial', sans-serif;">Languages and Tools</h3><br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-</div>
 <br>
 <h3 align="center" style="font-family: 'Arial', sans-serif;">Coding Profiles</h3><br>
 
@@ -72,9 +45,4 @@
   <a href="https://www.beecrowd.com.br/judge/en/profile/514985" target="_blank">
     <img src="https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=beecrowd&logoColor=white" height="25" alt="Beecrowd logo" />
   </a>
-</div>
-
-<h3 align="left" style="font-family: 'Arial', sans-serif;">🔥 My Stats :</h3><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supto-1&show_icons=true&locale=en" alt="supto-1" />
 </div>
