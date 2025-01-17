@@ -10,10 +10,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SUPTO-1.SUPTO-1&" />
-</div>
-
 <h1 align="center" style="font-family: 'Arial', sans-serif;">Hi! It's Supto</h1>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif;">About Me</h3>
